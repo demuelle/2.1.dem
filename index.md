@@ -1,0 +1,40 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+
+    <title>About Me</title>
+    <link rel="stylesheet" href="css/style.css">
+
+</head>
+
+<body>
+    <header class='masthead'>
+        <p class='masthead-intro'>Hi I'm</p>
+        <h1 class='masthead-heading'>Dan Mueller</h1>
+    </header>
+    <section class="details">
+      <h1>Introduction</h1>
+      <p>I'm an instructor with Trilogy Education Services.</p>
+      <h1>Where I'm From</h1>
+      <p>Downers Grove, Illinois</p>
+      <h1>What are your favorite hobbies?</h1>
+      <p>Over the years, I've become very practiced at sitting on the couch and watching television.</p>
+      <h1>What's your dream job?</h1>
+      <p>Obviously, teaching people how to become software developers.</p>
+      <h1>Where do you live?</h1>
+      <p>Chicago</p>
+      <h1>Why do you want to be a web developer?</h1>
+      <p>Building software provides quick, visible results. That quick feedback, and my enjoyment of solving logical and math problems makes software development a good fit for me.</p>
+    </section>
+
+    <footer id="footer">
+        <ul class="social">
+          <li><a href="http://www.github.com/usernamehere">Github</a></li>
+        </ul>
+    </footer>
+</body>
+
+</html>
